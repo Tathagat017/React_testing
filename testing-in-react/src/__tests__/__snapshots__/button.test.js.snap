@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the Counter should match the snapshot 1`] = `
+<button
+  className="teal large"
+  data-testid="custom-button"
+  onClick={[Function]}
+>
+  Click Me
+</button>
+`;
